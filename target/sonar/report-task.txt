@@ -1,0 +1,7 @@
+organization=syedzaid1
+projectKey=syedzaid1_sonarcloud
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.27634
+dashboardUrl=https://sonarcloud.io/dashboard?id=syedzaid1_sonarcloud
+ceTaskId=AX-rTDPRLhGmwe14LFIQ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX-rTDPRLhGmwe14LFIQ
